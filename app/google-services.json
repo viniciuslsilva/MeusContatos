@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "351083141510",
+    "project_id": "meus-contatos-pmd5",
+    "storage_bucket": "meus-contatos-pmd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351083141510:android:9b4aa795d99a690af6f407",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.scl.ads.s5.pdm.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351083141510-ta12dds2i9kfjpn2m2058ntaprpt58bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsp.scl.ads.s5.pdm.agenda",
+            "certificate_hash": "02d411c2f2d896703dbaf171fbecac468e2ab042"
+          }
+        },
+        {
+          "client_id": "351083141510-peecu0qot86hujem43vjl47jle4mfg34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDaMwjFZsQZGvGIWfu3xcZxKfPguoi7bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351083141510-peecu0qot86hujem43vjl47jle4mfg34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
